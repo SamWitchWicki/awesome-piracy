@@ -1064,6 +1064,8 @@ premium services
 - [Free MPS Download.net](https://free-mp3-download.net/) Search engine with streamable samples and download links
 - [chimera](https://notabug.org/Aesir/chimera) Multiple source terminal-based music downloader with audio search engine
 - [YouTube to MP3](https://ytformp3.com/)
+- [Rabbitmp3.cc](https://rabbitmp3.cc)
+- [Rabbitmp3.net](https://rabbitmp3.net)
 
 ### Spotify
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
